@@ -1,0 +1,10 @@
+name: CoreNE
+main: me.noeffort.main.Main
+version: 0.0.1
+commands:
+  help:
+    description: Displays a help dialog
+    usage: "Usage: /<command>"
+  info:
+    description: Displays info on the plugin
+    usage: "Usage: /<command>"
